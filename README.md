@@ -1,13 +1,14 @@
-# Interior Design Agent · 產品簡報原稿
+# Interior Design Agent · Native HTML proposal
 
-**[開啟 29 頁原稿](https://cathay-ai.github.io/interior-design-proposal/)** · [下載原始 PDF](assets/original-proposal.pdf)
+**[開啟 HTML 簡報](https://cathay-ai.github.io/interior-design-proposal/?v=native)** · [PDF 原稿](assets/original-proposal.pdf)
 
-依使用者提供的《Interior Design Agent 產品簡報.pdf》保留全部內容、順序與版面。七個章節：背景、市場、需求、產品體驗、競品、定位、執行。
+29 頁依使用者原稿以 **HTML / CSS / SVG** 重建。文字可選取，手機故事板、圓環／長條圖、情緒曲線、定位圖、流程泳道、比較表及分工矩陣都是原生元素。
 
-翻頁、跳章、縮圖、手機放大與輔助文字擷取。English UI changes reader controls only; original slides remain in Chinese. The slides are reproduced as supplied, not rewritten.
+No full-slide images, canvas screenshots, PDF embeds or iframes render the presentation. All slide copy and drawings are editable in `index.html`, with responsive styles and controls in `native/`.
 
-The original PDF is unchanged. SHA-256: `8613a34710940f3c50a7c862690486e114721cb0716009c4dcb859aa3c8ec657`.
+- 桌機保留原稿視覺層級與版面；手機重排文字與可滑動的寬圖表。
+- 可翻頁、跳章、切換閱讀模式、放大字級與列印。
+- 七章：背景、市場、需求、產品體驗、競品、定位、執行。
+- 原稿 PDF 只供對照及下載，沒有用來渲染網站。
 
-This public repository contains only presentation assets. Internal product documentation remains private. Figures, mockups and claims are as supplied in the original deck, not independent additions by the reader.
-
-[Earlier independently authored deck](legacy/index.html) is retained as legacy, not a substitute for the original.
+Original figures, assumptions and attribution are retained. No numerical data is invented for the source PDF’s empty chart page. This is a product proposal, not a live design service or new independent market study. Internal product specs remain private.
