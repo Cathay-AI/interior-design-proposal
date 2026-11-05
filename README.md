@@ -1,13 +1,13 @@
-# Interior Design Agent · Proposal
+# Interior Design Agent · 產品簡報原稿
 
-**[開啟簡報 / Open slides](https://cathay-ai.github.io/interior-design-proposal/)** · [English](https://cathay-ai.github.io/interior-design-proposal/?lang=en#1)
+**[開啟 29 頁原稿](https://cathay-ai.github.io/interior-design-proposal/)** · [下載原始 PDF](assets/original-proposal.pdf)
 
-語音／文字＋參考圖 → 3D 提案與粗略報價。手機優先、電腦可用，考量台灣裝修條件。
+依使用者提供的《Interior Design Agent 產品簡報.pdf》保留全部內容、順序與版面。七個章節：背景、市場、需求、產品體驗、競品、定位、執行。
 
-Voice/text and reference images → 3D proposals and rough budgets. Mobile-first, desktop-ready, with Taiwan-aware design considerations.
+翻頁、跳章、縮圖、手機放大與輔助文字擷取。English UI changes reader controls only; original slides remain in Chinese. The slides are reproduced as supplied, not rewritten.
 
-This repository contains only the presentation and its concept image. The product is in planning. The image is original AI-generated concept art, not customer work. Prices, providers and supported checks remain to validate.
+The original PDF is unchanged. SHA-256: `8613a34710940f3c50a7c862690486e114721cb0716009c4dcb859aa3c8ec657`.
 
-本 repo 僅提供簡報與概念圖，並非已完成產品或客戶案例。價格、技術選型及適用檢查仍待驗證。
+This public repository contains only presentation assets. Internal product documentation remains private. Figures, mockups and claims are as supplied in the original deck, not independent additions by the reader.
 
-Use arrow keys, page numbers or mobile swipes. Switch language or print all eight slides to PDF.
+[Earlier independently authored deck](legacy/index.html) is retained as legacy, not a substitute for the original.
